@@ -1,0 +1,8 @@
+^\.github$
+^\.github/.*$
+^\.git$
+^\.git/.*$
+^README\.Rmd$
+^\.gitignore$
+^data-raw$
+^data-raw/.*$

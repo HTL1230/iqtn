@@ -1,0 +1,26 @@
+Package: iqtn
+Type: Package
+Title: Interpretable Quantile Temporal Networks for Carbon Tail-Risk Forecasting
+Version: 0.0.1
+Author: First Author [aut, cre]
+Maintainer: First Author <author@example.com>
+Authors@R: c(
+    person("First", "Author", email = "author@example.com", role = c("aut", "cre"))
+  )
+Description: Tools for preparing carbon allowance market features, evaluating
+    quantile forecasts, estimating Value-at-Risk and Conditional Value-at-Risk,
+    and constructing early-warning signals for tail-risk forecasting workflows.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Depends:
+    R (>= 4.1)
+Imports:
+    graphics,
+    grDevices,
+    stats,
+    utils
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
