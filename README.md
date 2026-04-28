@@ -3,6 +3,8 @@
 `iqtn` is an R package scaffold for carbon allowance tail-risk forecasting with
 interpretable quantile temporal networks.
 
+![VaR backtest example](man/figures/var_backtest.png)
+
 The current package skeleton focuses on the reusable parts of the workflow:
 
 - CEA market feature construction from daily OHLCV records
