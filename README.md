@@ -15,7 +15,7 @@ The current package skeleton focuses on the reusable parts of the workflow:
 
 ```r
 # install.packages("remotes")
-remotes::install_github("OWNER/iqtn")
+remotes::install_github("HTL1230/iqtn")
 ```
 
 ## Example
